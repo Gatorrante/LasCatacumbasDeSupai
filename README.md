@@ -46,11 +46,11 @@ El jefe de las cuevas mineras, este demonio es el más confiable aliado del Supa
 **Supay Muki:**
 ![Spritesheet del Supay Muki](Images/mukiBoss_atack.png)
 
-> **Aviso:** Todos los diseños y spritesheets fueron desarrollados por mí y están protegidos por derechos de autor.
+> **Aviso:** Todos los diseños y spritesheets tanto de Gallito como del Supay Muki son de mi autoría. Para el resto de Assets todos los derechos reservados.
 
 ### Desarrollo del Juego
 
-El desarrollo de **Las Catacumbas de Supai** fue realizado en **Unity** debido a mi rápida curva de aprendizaje con este motor, lo que me permitió ahorrar tiempo y enfocarme en los detalles del juego. Actualmente, estoy trabajando en un **remake** del juego con la intención de expandirlo. Puedes seguir el progreso de este proyecto en el siguiente enlace: [Supay's Gates](https://github.com/Gatorrante/Supay-s-Gates).
+El desarrollo de **Las Catacumbas de Supai** fue realizado en **Unity** debido a mi rápida curva de aprendizaje con este motor, lo que me permitió ahorrar tiempo y enfocarme en los detalles del juego. Sin embargo, actualmente, estoy trabajando en un **remake** del juego utilizando **GODOT** y **GDsript** con la intención de expandirlo con nuevas mécanicas y un estilo artístico renovado. Puedes seguir el progreso de este proyecto en el siguiente enlace: [Supay's Gates](https://github.com/Gatorrante/Supay-s-Gates).
 
 ![Desarrollo del Juego](Images/desarrollo.png)
 
